@@ -1,8 +1,8 @@
 {
     "serverAddress": "localhost",
-    "serverName": "Node Y56 Intranet",
-    "iconName": "Moon-icon.png",
-    "terminalID": "Y56",
+    "serverName": "FBI: Unusual Incidents Unit",
+    "iconName": "UIU_badge.png",
+    "terminalID": "uiu",
     "defaultUser": {
         "userId": "user",
         "password": "",
