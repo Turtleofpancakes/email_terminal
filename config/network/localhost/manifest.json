@@ -4,9 +4,9 @@
     "iconName": "UIU_badge.png",
     "terminalID": "uiu",
     "defaultUser": {
-        "userId": "AgentStone",
-        "password": "Stone1234",
-        "userName": "JasonStone"
+        "userId": "",
+        "password": "",
+        "userName": "anonmous"
     },
     "initialHistory": {
         "user": [
