@@ -10,7 +10,7 @@
     },
     "initialHistory": {
         "user": [
-            "login admin@admin"
+            "login AgentStone"
         ],
         "admin": [
             "ping fbi.gov"
