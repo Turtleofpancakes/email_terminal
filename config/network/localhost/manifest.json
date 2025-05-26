@@ -1,7 +1,7 @@
 {
     "serverAddress": "FBI.gov/UIU",
     "serverName": "FBI: Unusual Incidents Unit",
-    "iconName": "UIU_badge.png",
+    "iconName": "UIU_Badge.png",
     "terminalID": "uiu",
     "defaultUser": {
         "userId": "",
