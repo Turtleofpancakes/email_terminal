@@ -4,7 +4,7 @@
     "iconName": "UIU_badge.png",
     "terminalID": "uiu",
     "defaultUser": {
-        "userId": "",
+        "userId": "user",
         "password": "",
         "userName": "anonmous"
     },
