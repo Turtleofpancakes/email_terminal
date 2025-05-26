@@ -1,12 +1,12 @@
 {
-    "serverAddress": "localhost",
+    "serverAddress": "FBI.gov/UIU",
     "serverName": "FBI: Unusual Incidents Unit",
     "iconName": "UIU_badge.png",
     "terminalID": "uiu",
     "defaultUser": {
-        "userId": "user",
-        "password": "",
-        "userName": "anonymous"
+        "userId": "AgentStone",
+        "password": "Stone1234",
+        "userName": "JasonStone"
     },
     "initialHistory": {
         "user": [
